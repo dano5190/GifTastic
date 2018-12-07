@@ -6,5 +6,8 @@ That's pretty much it, enjoy!
 
 -Daniel O'Connell
 
+the link to this webpage:
+https://dano5190.github.io/GifTastic/
+
 the link to my portfolio page is here:
 https://dano5190.github.io/Bootstrap-Portfolio/portfolio.html
