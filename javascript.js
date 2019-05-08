@@ -9,7 +9,7 @@ function renderButtons() {
 
     for (var i = 0; i < topics.length; i++) {
  
-        var a = $("<button class= 'btn btn-primary'>");
+        var a = $("<button class= 'btn btn-outline-primary'>");
 
         a.addClass("animal");
 
